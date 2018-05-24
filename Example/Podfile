@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SSBlurAlert_Tests' do
+  pod 'SSBlurAlert', :path => '../'
+  
+  
+end
